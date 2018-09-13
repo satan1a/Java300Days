@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * 本项目是对Java使用异或加解密字符串的练习
- * 知识点：toCharArray 方法，异或运算
+ * 知识点：toCharArray 方法，异或运算, System.err.println
  */
 public class Encryption {
     public static void main(String[] args) {
