@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="47" />
+              <first_editor relative-caret-position="250">
+                <caret line="8" column="194" lean-forward="true" selection-start-line="8" selection-start-column="194" selection-end-line="8" selection-end-column="194" />
               </first_editor>
               <second_editor />
             </state>
@@ -214,12 +214,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537321219462</updated>
       <workItem from="1537321222848" duration="5410000" />
-      <workItem from="1537327530141" duration="141000" />
+      <workItem from="1537327530141" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5551000" />
+    <option name="totallyTimeSpent" value="5592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -352,8 +352,8 @@
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="47" />
+          <first_editor relative-caret-position="250">
+            <caret line="8" column="194" lean-forward="true" selection-start-line="8" selection-start-column="194" selection-end-line="8" selection-end-column="194" />
           </first_editor>
           <second_editor />
         </state>
