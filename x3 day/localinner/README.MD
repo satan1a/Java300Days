@@ -6,7 +6,7 @@
     + 局部内部类**只能在定义它的方法中使用**，出了这个方法，局部内部类就不可见了。<br /> <br />
     + ![image][picture_1] <br />
        这张图片使用base64编码显示。
-    + <img src="./note/pictures/loaclInnter.jpg" width="300" height="200" alt="A sample picture of local inner class"> <br />
+    + <img src="https://github.com/satan1a/Java300Days/blob/master/x3%20day/localinner/note/pictures/localInner.jpg" width="300" height="200" alt="A sample picture of local inner class"> <br />
        这张图片使用 img 标签显示
 - Swing 中的 Timer ： 
     + 在指定时间间隔(delay)内触发一个或多个 ActionEvent ，一个示例用法是动画对象，它将 Timer 用作绘制其帧的触发器。 
