@@ -63,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <first_editor relative-caret-position="25">
+                <caret line="1" column="72" lean-forward="true" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -124,7 +124,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="984" />
     <option name="width" value="943" />
     <option name="height" value="1087" />
@@ -160,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537498215473" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537498445302" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -223,18 +223,18 @@
       <option name="presentableId" value="Default" />
       <updated>1537459795146</updated>
       <workItem from="1537459800497" duration="442000" />
-      <workItem from="1537488707269" duration="6546000" />
+      <workItem from="1537488707269" duration="6775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6988000" />
+    <option name="totallyTimeSpent" value="7217000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="984" y="0" width="943" height="1087" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19592299" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09536935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -244,7 +244,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32948583" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32640332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,8 +304,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="72" lean-forward="true" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
           </first_editor>
           <second_editor />
         </state>
