@@ -25,7 +25,9 @@ z：表示时区<br />
 </pre>
 - 三种时间戳转换成时间：<br />
 String sd = sdf.format(Long.parseLong(String.valueOf(timeStamp)));<br />
-String sd = sdf.format(new Date(Long.parseLong(String.valueOf(timeStamp))));<br />
+String sd = sdf.format(new Date(Long.parseLong(String.valueOf(timeStamp))));<br /> 
 String sd = sdf.format(timeStamp);<br />
+
+第二种是：先把 long 转换成 string 再转换成 long
 ## 2. Date
 // TODO
