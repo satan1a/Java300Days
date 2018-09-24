@@ -30,4 +30,19 @@ String sd = sdf.format(timeStamp);<br />
 
 第二种是：先把 long 转换成 string 再转换成 long
 ## 2. Date
-// TODO
+<pre>
+类 java.util.Date 表示特定的瞬间，精确到毫秒。提供了很多的方法，但是很多已经过时，不推荐使用，下面仅仅列出没有过时的方法：
+
+方法名	功能描述
+Date()	                        构造方法，分配 Date 对象并用当前时间初始化此对象，以表示分配它的时间（精确到毫秒）。
+Date(long date)	                构造方法，分配 Date 对象并初始化此对象，以表示自从标准基准时间（称为“历元（epoch）”，即 1970 年 1 月 1 日 00:00:00 GMT）以来的指定毫秒数
+boolean after(Date when)	测试此日期是否在指定日期之后。
+boolean before(Date when)	测试此日期是否在指定日期之前。
+Object clone()	                返回此对象的副本。
+int compareTo(Date anotherDate)	比较两个日期的顺序。
+boolean equals(Object obj)	比较两个日期是否相等。
+long getTime()	                返回自 1970 年 1 月 1 日 00:00:00 GMT 以来此 Date 对象表示的毫秒数。
+int hashCode()	                返回此对象的哈希码值。
+void setTime(long time)	        设置此 Date 对象，以表示 1970 年 1 月 1 日 00:00:00 GMT 以后 time 毫秒的时间点。
+String toString()	        把此 Date 对象转换为以下形式的 String： dow mon dd hh:mm:ss zzz yyyy
+</pre>
