@@ -21,3 +21,9 @@ o2=operation:(2) 建立一个调用 hasNext() 方法的循环，只要 hasNext()
 o3=operation:(3) 在循环内部，通过调用 next() 方法来得到每一个元素。当然，视具体情况而定。
 s-o1-o2-o3-e
 ```
+- 举个栗子：<br />
+```
+        for(Iterator<Integer> iterator = arrayList.iterator(); iterator.hasNext();) {
+            System.out.print(iterator.next() + " ");
+        }
+```

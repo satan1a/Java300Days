@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d8d9e3c-423a-41df-ab9e-ea4d699699e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/src/IteratorTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x8 day/prcarraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x8 day/prcarraylist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../x9 day/prciteratortraversal/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
