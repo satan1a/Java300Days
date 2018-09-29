@@ -4,7 +4,8 @@ import java.util.Comparator;
 
 /**
  * PrcLambda
- * 对 Lambda 匿名函数的练习
+ * 对 Lambda 匿名函数的练习,
+ * 以下为不使用 Lambda 的版本
  * @author satan1a
  * @date 2018_9_29
  */
@@ -24,13 +25,14 @@ public class PrcLambda {
         // 按原始顺序输出字符串数组中的字符串元素
         System.out.printf("按原始顺序输出字符串数组中的字符串元素: \n");
         for (String s: stringsList) {
-            System.out.printf("");
+            System.out.printf(s.toUpperCase() + " ");
 
         }
+        System.out.println("\n");
 
         // 按自己实现的 Comparator 来 sort()
         Arrays.sort(stringsList, new LengthComparator());
-
+        System.out.println("按照自己实现的 Comparator 来 sort()" + "\n");
         for (String s: stringsList) {
             System.out.printf(s.toUpperCase() + " ");
 
