@@ -1,66 +1,78 @@
 import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Iterator;
-import java.util.Map.Entry;
 import java.util.Random;
 
 /**
- * 测试分别通过 Iterator 和 Enumeration 去遍历Hashtable
- * @author skywang
- * @mender satan1a
+ * IteratorEnumeration
+ * 通过 Iterator 和 Enumeration 遍历一个 Hashtable 来比较两者的效率
+ * @author satan1a
+ * @date 2018_10_1
  */
 public class IteratorEnumeration {
 
     public static void main(String[] args) {
         int val;
-        Random r = new Random();
-        Hashtable table = new Hashtable();
-        for (int i=0; i<100000; i++) {
-            // 随机获取一个[0,100)之间的数字
-            val = r.nextInt(100);
-            table.put(String.valueOf(i), val);
+        Random random= new Random();
+        Hashtable hashtable = new Hashtable();
+        for (int i = 0; i < 100000; i++) {
+            // 随机获取一个[0,100]之间的数字
+            val = random.nextInt(100);
+            hashtable.put(String.valueOf(i), val);
+
         }
 
-        // 通过Iterator遍历Hashtable
-        iterateHashtable(table) ;
+        // 通过 Iterator 遍历 Hashtable
+        iterateHashtable(hashtable);
 
-        // 通过Enumeration遍历Hashtable
-        enumHashtable(table);
+        // 通过 Enumeration 遍历 Hashtable
+        enumHashtable(hashtable);
     }
 
     /**
-     * 通过Iterator遍历Hashtable
+     * 计算遍历时间 的方法
+     * @param start
+     * @param end
      */
-    private static void iterateHashtable(Hashtable table) {
-        long startTime = System.currentTimeMillis();
-
-        Iterator iter = table.entrySet().iterator();
-        while(iter.hasNext()) {
-//            System.out.println("iter:"+iter.next());
-            iter.next();
-        }
-
-        long endTime = System.currentTimeMillis();
-        countTime(startTime, endTime);
-    }
-
-    /**
-     * 通过Enumeration遍历Hashtable
-     */
-    private static void enumHashtable(Hashtable table) {
-        long startTime = System.currentTimeMillis();
-
-        Enumeration enu = table.elements();
-        while(enu.hasMoreElements()) {
-//            System.out.println("enu:"+enu.nextElement());
-            enu.nextElement();
-        }
-
-        long endTime = System.currentTimeMillis();
-        countTime(startTime, endTime);
-    }
-
     private static void countTime(long start, long end) {
-        System.out.println("time: "+(end-start)+"ms");
+        System.out.printf(String.format("time: " + (end - start) + " ms" + "\n"));
+    }
+
+    /**
+     * Iterator 遍历 Hashtable 的方法
+     * @param hashtable
+     */
+    private static void iterateHashtable(Hashtable hashtable) {
+        long startTime = System.currentTimeMillis();
+
+        Iterator iterator = hashtable.entrySet().iterator();
+
+        // 遍历
+        while (iterator.hasNext()) {
+            iterator.next();
+
+        }
+
+        long endTime = System.currentTimeMillis();
+        countTime(startTime, endTime);
+
+    }
+
+    /**
+     * Enumeration 遍历 Hashtable
+     * @param hashtable
+     */
+    private static void enumHashtable (Hashtable hashtable) {
+        long startTime = System.currentTimeMillis();
+
+        Enumeration enumeration = hashtable.elements();
+        while (enumeration.hasMoreElements()) {
+            enumeration.nextElement();
+
+        }
+
+        long endtime = System.currentTimeMillis();
+        countTime(startTime, endtime);
+
     }
 }

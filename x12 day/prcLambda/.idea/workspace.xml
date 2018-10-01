@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac3e0cef-6fb8-4018-ba98-043279a640bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x14 day/prcList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x14 day/prcList/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x14 day/prcList/src/IteratorEnumeration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prcLambda/LengthComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prcLambda/PrcLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x13 day/prcLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x13 day/prcLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x14 day/prcList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x14 day/prcList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x14 day/prcList/out/production/prcList/IteratorEnumeration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../x14 day/prcList/out/production/prcList/IteratorEnumeration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x14 day/prcList/src/IteratorEnumeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../x14 day/prcList/src/IteratorEnumeration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,9 +105,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="54" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="984" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
