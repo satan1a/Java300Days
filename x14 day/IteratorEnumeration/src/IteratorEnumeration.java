@@ -30,7 +30,7 @@ public class IteratorEnumeration {
     }
 
     /**
-     * 计算遍历时间 的方法
+     * 计算遍历时间并输出 的方法
      * @param start
      * @param end
      */
