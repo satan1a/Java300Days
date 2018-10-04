@@ -15,3 +15,6 @@
 1. <strong>void load(InputStream inStream):</strong>从属性文件（以输入流表示）中加载属性名=属性值，把加载到的属性名=属性值对追加到Properties里（由于Properties是Hashtable)的子类，它不保证key-value对之间的次序）。
 2. <strong>void Store(OutputStream out, String comment):</strong>将Properties中的key-valu对写入指定属性文件（以输出流表示）。第一个参数用来指向加载的配置文件，<strong>第二个参数为 String 用来给配置文件添加注释，不影响文件内容。</strong>
 </pre>
+
+- http://www.cnblogs.com/zhxxcq/archive/2012/04/30/2476979.html  
+// TODO
