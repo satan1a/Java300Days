@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8baeb764-e6e6-4465-8cdd-d9094706812c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/prcHashSetAndHashMap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/src/PrcHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/src/PrcHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x20 day/prcHashSetAndHashMap/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,9 +16,11 @@
     <session id="-1635154609">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,7 +42,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="30" selection-end-column="73" />
+                <caret column="27" selection-start-column="27" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,8 +67,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="984" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
     <option name="width" value="943" />
     <option name="height" value="1087" />
   </component>
@@ -86,8 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,17 +132,17 @@
       <updated>1538843165086</updated>
       <workItem from="1538843169702" duration="18000" />
       <workItem from="1538908455861" duration="1621000" />
+      <workItem from="1538977996265" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1639000" />
+    <option name="totallyTimeSpent" value="1780000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25248072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12568909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -187,7 +182,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="30" selection-end-column="73" />
+            <caret column="27" selection-start-column="27" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
