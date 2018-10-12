@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f57182c4-d3b9-4f4c-b582-8c54591329cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/src/CheckThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x24 day/checkThread/src/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prcProperties/PrcProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x23 day/CreateThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x23 day/CreateThread/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x23 day/CreateThread/src/ImplementsRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../x23 day/CreateThread/src/ImplementsRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x23 day/CreateThread/src/PrcThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../x23 day/CreateThread/src/PrcThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/checkThread.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x24 day/多线程 第二篇 TODO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x24 day/多线程 第二篇 TODO/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x24 day/多线程 第二篇 TODO/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x24 day/checkThread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x24 day/checkThread/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../x24 day/checkThread/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
