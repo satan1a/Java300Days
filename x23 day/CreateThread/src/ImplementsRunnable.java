@@ -2,6 +2,8 @@
 /**
  * Implements Runnable
  * 实现 Runnable 接口 创建多线程
+ * @author satan1a
+ * @date 2018_10_10
  */
 public class ImplementsRunnable {
 
