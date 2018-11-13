@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6309ba5-ac44-4e7f-8600-32d370b5b28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/prcCallableFuture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/src/CallableThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x25 day/多线程篇/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x25 day/多线程篇/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x25 day/prcCallableFuture/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +16,7 @@
     <session id="1077790512">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -71,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CheckThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="189">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -192,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539304861170</updated>
       <workItem from="1539304863865" duration="3501000" />
-      <workItem from="1539683805088" duration="1433000" />
+      <workItem from="1539683805088" duration="2062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4934000" />
+    <option name="totallyTimeSpent" value="5563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -259,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CheckThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="189">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
